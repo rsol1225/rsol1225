@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of 
 🦋 Flutter • 🔥 Firebase • 🌐 HTML & CSS • 🐍 Flask
 
 ### 🛠️ Dev Tools & Practices  
-🐚 Bash • 🐙 Git • 🔁 CI/CD • 📅 Scrum/Agile
+🐚 Bash • 🐙 Git • 🔁 CI/CD • 📅 Scrum/Agile • ⚓ Kubernetes 
 
 ### 🖥️ Operating Systems  
 🐧 Linux   🍎 macOS   🪟 Windows  
