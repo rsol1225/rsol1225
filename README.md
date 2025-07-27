@@ -24,6 +24,8 @@ Description: Scale up and automate data generation from the desktop applications
 Tech Stack: OpenTAP, Chocolatey, Boxstarter, Pathwave Signal Generation, KS8500B Pathwave Test Automation
 Highlights: Successfully containerized the Pathwave Signal Generation desktop application 
 
+Feel free to reach out to me if you want access to AI Studio Project and OpenTAP Plugin Project repositories! 
+
 ##  📊 GitHub Activity  
 🔧 Regularly contributing to personal and collaborative repositories.  
 🌱 Actively exploring full stack web development and AI/ML
