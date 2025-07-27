@@ -19,7 +19,7 @@ Description: A platform for students to share, collaborate, and manage class not
 Tech Stack: Dart, Flutter, Firebase  
 Highlights: Integrated authentication, real-time note uploads, and peer-to-peer collaboration.  
 
-3️⃣ OpenTAP Plugin Project - Scale and Automate Data Generation
+3️⃣ OpenTAP Plugin Project - Scale and Automate Data Generation  
 Description: Scale up and automate data generation from the desktop applications, specifically the Pathwave Signal Generation Desktop App, for the Keysight AI team. The repository contains a plugin for OpenTAP test automation framework, implementing signal generator automation functionality and the script to package the Pathwave Signal Generation desktop application.
 Tech Stack: OpenTAP, Chocolatey, Boxstarter, Pathwave Signal Generation, KS8500B Pathwave Test Automation
 Highlights: Successfully containerized the Pathwave Signal Generation desktop application 
