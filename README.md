@@ -1,7 +1,7 @@
 👩‍💻 Roma Solapurkar
 🚀 Aspiring Software Engineer | AI/ML Enthusiast | Drone Pilot
 
-Welcome to my GitHub profile! I'm a senior at UC Santa Cruz studying Computer Science, passionate about leveraging technology to create impactful solutions. My work spans software engineering, machine learning, and drone-based 3D modeling, showcasing my diverse technical skills and drive to innovate.
+Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of Science in Computer Science. I'm currently an Associate Software Engineer at L3Harris where I am leveraging technology to create impactful solutions. My work spans software engineering, machine learning, and drone-based 3D modeling, showcasing my diverse technical skills and drive to innovate.
 
 📫 Contact: romasolapurkar14@gmail.com  
 🔗 LinkedIn: linkedin.com/in/romasolapurkar  
