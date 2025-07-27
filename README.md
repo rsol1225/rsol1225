@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of 
 ### 🛠️ Dev Tools & Practices  
 🐚 Bash • 🐙 Git • 🔁 CI/CD • 📅 Scrum/Agile
 
-### Operating Systems  
+### 🖥️ Operating Systems  
 🐧 Linux   🍎 macOS   🪟 Windows  
 
 ## 🌟 Featured Projects
