@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of Science in Computer Science. I'm currently an Associate Software Engineer at L3Harris Technologies where I am leveraging technology to create impactful solutions. My work spans software engineering, machine learning, and drone-based 3D modeling, showcasing my diverse technical skills and drive to innovate.
 
 📫 Contact: romasolapurkar14@gmail.com  
-🔗 LinkedIn: [Roma's Linkedin](linkedin.com/in/romasolapurkar)
+🔗 LinkedIn: [Roma's Linkedin](linkedin.com/in/romasolapurkar) 
 📝 Medium blog: [Roma's Blog](medium.com/@romasblog)
 📁 Portfolio: My Website (Coming soon!)  
 
