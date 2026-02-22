@@ -43,6 +43,7 @@ Tech Stack: OpenTAP, Chocolatey, Boxstarter, Pathwave Signal Generation, KS8500B
 Highlights: Successfully containerized the Pathwave Signal Generation desktop application 
 
 Feel free to reach out to me if you want access to AI Studio Project and OpenTAP Plugin Project repositories! 
+
 Linkedin: https://www.linkedin.com/in/romasolapurkar/
 
 ##  📊 GitHub Activity  
