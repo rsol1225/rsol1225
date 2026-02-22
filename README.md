@@ -44,12 +44,10 @@ Highlights: Successfully containerized the Pathwave Signal Generation desktop ap
 
 Feel free to reach out to me if you want access to AI Studio Project and OpenTAP Plugin Project repositories! 
 
-Linkedin: https://www.linkedin.com/in/romasolapurkar/
-
 ##  📊 GitHub Activity  
 🔧 Regularly contributing to personal and collaborative repositories.  
 🌱 Actively exploring full stack web development and AI/ML
-🛠️ Learning and experimenting with tools like Apache Airflow, Redis, and Spark.  
+🛠️ Learning and experimenting with new AI tools - Cursor, Claude, etc.  
 
 ##  🎯 Goals
 Develop innovative AI solutions to solve real-world problems.
