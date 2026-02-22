@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of 
 📫 Contact: romasolapurkar14@gmail.com  
 🔗 LinkedIn: linkedin.com/in/romasolapurkar  
 📝 Medium blog: https://medium.com/@romasblog  
-📝 Portfolio: My Website (Coming soon!)  
+📁 Portfolio: My Website (Coming soon!)  
 
 ## 🛠️ Languages and Tools
 ### Programming Languages    
@@ -51,6 +51,7 @@ Feel free to reach out to me if you want access to AI Studio Project and OpenTAP
 🛠️ Learning and experimenting with new AI tools - Cursor, Claude, etc.  
 
 ##  🎯 Goals
-Develop innovative AI solutions to solve real-world problems.
+Develop innovative AI solutions to solve real-world problems.  
 Grow as a software engineer by applying my skills in impactful projects.
 
+ I hope you got to learn a little bit more about me! 
