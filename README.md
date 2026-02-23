@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of 
 📫 Contact: romasolapurkar14@gmail.com  
 🔗 LinkedIn: [Roma's Linkedin](https://linkedin.com/in/romasolapurkar)  
 📝 Medium blog: [Roma's Blog](https://medium.com/@romasblog)  
-📁 Portfolio: My Website (Coming soon!)  
+📁 Portfolio: [Portfolio Website (still in the process of completing)](https://rsol1225.github.io/portfolio/)  
 
 ## 🛠️ Languages and Tools
 ### Programming Languages    
