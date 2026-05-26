@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I graduated from UC Santa Cruz with a Bachelor of 
 🐼 Pandas • 📉 NumPy • 🎨 Matplotlib • 🌈 Seaborn
 
 ### 📱 App & Web Development  
-🦋 Flutter • 🔥 Firebase • 🌐 HTML & CSS • 🐍 Flask
+🦋 Flutter • 🔥 Firebase • 🌐 HTML & CSS • 🐍 Spring Boot
 
 ### 🛠️ Dev Tools & Practices  
-🐚 Bash • 🐙 Git • 🔁 CI/CD • 📅 Agile • ⚓ Kubernetes 
+🐚 Bash • 🐙 Git • 🔁 CI/CD • 📅 Agile • ⚓ Kubernetes • ⚓ Docker
 
 ### 🖥️ Operating Systems  
 🐧 Linux   🍎 macOS   🪟 Windows  
